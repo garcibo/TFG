@@ -1,0 +1,66 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2014 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Mark Simonson Studio
+ * License URL: http://www.fontspring.com/licenses/mark-simonson-studio/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('/css/fonts/proxima-nova/regular/Webfonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot');
+    src: url('/css/fonts/proxima-nova/regular/Webfonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/fonts/proxima-nova/regular/Webfonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.woff2') format('woff2'),
+         url('/css/fonts/proxima-nova/regular/Webfonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.woff') format('woff'),
+         url('/css/fonts/proxima-nova/regular/Webfonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.ttf') format('truetype'),
+         url('/css/fonts/proxima-nova/regular/Webfonts/proximanova_regular_macroman/ProximaNova-Reg-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('/css/fonts/proxima-nova/bold/Webfonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot');
+    src: url('/css/fonts/proxima-nova/bold/Webfonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/fonts/proxima-nova/bold/Webfonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.woff2') format('woff2'),
+         url('/css/fonts/proxima-nova/bold/Webfonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.woff') format('woff'),
+         url('/css/fonts/proxima-nova/bold/Webfonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.ttf') format('truetype'),
+         url('/css/fonts/proxima-nova/bold/Webfonts/proximanova_bold_macroman/ProximaNova-Bold-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_nova';
+    src: url('/css/fonts/proxima-nova/light/Webfonts/proximanova_light_macroman/ProximaNova-Light-webfont.eot');
+    src: url('/css/fonts/proxima-nova/light/Webfonts/proximanova_light_macroman/ProximaNova-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/fonts/proxima-nova/light/Webfonts/proximanova_light_macroman/ProximaNova-Light-webfont.woff2') format('woff2'),
+         url('/css/fonts/proxima-nova/light/Webfonts/proximanova_light_macroman/ProximaNova-Light-webfont.woff') format('woff'),
+         url('/css/fonts/proxima-nova/light/Webfonts/proximanova_light_macroman/ProximaNova-Light-webfont.ttf') format('truetype'),
+         url('/css/fonts/proxima-nova/light/Webfonts/proximanova_light_macroman/ProximaNova-Light-webfont.svg#proxima_nova_ltlight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novathin';
+    src: url('/css/fonts/proxima-nova/thin/Webfonts/proximanova_thin_macroman/proximanova-thin-webfont.eot');
+    src: url('/css/fonts/proxima-nova/thin/Webfonts/proximanova_thin_macroman/proximanova-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/css/fonts/proxima-nova/thin/Webfonts/proximanova_thin_macroman/proximanova-thin-webfont.woff2') format('woff2'),
+         url('/css/fonts/proxima-nova/thin/Webfonts/proximanova_thin_macroman/proximanova-thin-webfont.woff') format('woff'),
+         url('/css/fonts/proxima-nova/thin/Webfonts/proximanova_thin_macroman/proximanova-thin-webfont.ttf') format('truetype'),
+         url('/css/fonts/proxima-nova/thin/Webfonts/proximanova_thin_macroman/proximanova-thin-webfont.svg#proxima_novathin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
