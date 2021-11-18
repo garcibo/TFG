@@ -9,6 +9,9 @@ GoogleNews-vectors-negative300.bin.gz
 
 reviewDatasetClean.csv
 
+word2vecEmbedder.ipynb
+
+
 img/
 
 # Byte-compiled / optimized / DLL files
