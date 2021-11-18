@@ -1,9 +1,13 @@
-TFG.ipynb
+
 .ipynb_checkpoints/
 
 reviewDataSet.csv
 
 lid.176.ftz
+
+GoogleNews-vectors-negative300.bin.gz
+
+reviewDatasetClean.csv
 
 img/
 
