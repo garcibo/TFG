@@ -9,8 +9,7 @@ GoogleNews-vectors-negative300.bin.gz
 
 reviewDatasetClean.csv
 
-word2vecEmbedder.ipynb
-
+embedderWord2vec.ipynb
 
 img/
 
